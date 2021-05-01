@@ -1,0 +1,3 @@
+Username = sample@mail.com
+Password = samplePass
+Runtime = 0
